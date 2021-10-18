@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.emojiSpan {
+  padding: 1rem;
+  font-size: 2rem;
+  cursor: pointer;
+}
+input {
+  padding: 0.5rem;
+  width: 80%;
+  margin-bottom: 2rem;
+}
+.output {
+  font-family: fantasy;
+  font-size: 25px;
+  color: blue;
+  width: bold;
+}
